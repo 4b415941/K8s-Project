@@ -1,4 +1,4 @@
-##k8s project at https://labs.play-with-k8s.com/
+## k8s project at https://labs.play-with-k8s.com/
 
 ## Cluster Setup
 
